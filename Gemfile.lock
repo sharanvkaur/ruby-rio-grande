@@ -35,6 +35,3 @@ PLATFORMS
 DEPENDENCIES
   rspec
   rubocop
-
-BUNDLED WITH
-   1.11.2
